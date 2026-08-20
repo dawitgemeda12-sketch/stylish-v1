@@ -1,0 +1,5 @@
+{
+  "name":"stylish-v1-prototype",
+  "private":true,
+  "scripts":{"start":"npx serve ."}
+}
